@@ -2,7 +2,7 @@
 
 # 🐉⚔️ DrMedhyena — Trainer & Full-Stack Planeswalker ⚔️🐉
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=git+push+--force%3A+it+ships+or+it+breaks;sudo+catch+'em+all;model.fit(X_train%2C+y_train)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=git+push+--force%3A+it+ships+or+it+breaks;sudo+catch+'em+all;W@C+student+once+,+KW@C+student+forever;model.fit(X_train%2C+y_train)" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=YoanLeNavenec&color=8A2BE2&style=flat)
 
@@ -62,7 +62,7 @@
 
 - ⚫ **[repo](https://github.com/YoanLeNavenec/ScryingMyr)** — My first real project (WIP)! 
 - 🔴 **[repo](https://github.com/DrMedhyena/repo)** — To be added... 👀
-- 🟢 **[repo](https://github.com/YoanLeNavenec/CodeName)** — My best academic project
+- 🟢 **[repo](https://github.com/YoanLeNavenec/CodeName)** — My best academic project!
 - 🃏 **[repo](https://github.com/DrMedhyena/repo)** — to be added... 👀
 
 ---
